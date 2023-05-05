@@ -1,4 +1,4 @@
-// import { aprendiz } from "../models/aprendizModel.js";
+// {import { aprendiz } from "../models/aprendizModel.js";
 // import {personaHerencia} from "../models/personaHerenciaModel.js"
 // export async function getAprendizes(req, res) {
 //     try {
@@ -152,4 +152,4 @@
 //     } catch (error) {
 //         res.status(500).json({ message: error.message, });
 //     }
-// }
+// }}
